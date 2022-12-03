@@ -1,0 +1,22 @@
+$nomention
+$onlyAdmin[❌ You need admin rights to use this command.
+❌ Для використання цієї команди вам потрібні права адміністратора.
+❌ Для использования данной команды вам нужны права админа.]
+$color[$randomText[ffff00;ff005b;00ff56;e1ff00;0900ff]]
+$createRole[🦸‍♂️Ваш любимый 🦸‍♂️;#2ecc71;yes;yes]
+$createRole[🚨Администратор🚨;#ff0a00;yes;yes]
+$createRole[👧Модератор-Девушки👧;#ad05f0;yes;yes]
+$createRole[🚓Модератор🚓;#1401fc;yes;yes]
+$createRole[👩Женщины / Девушки👩;#f70997;yes;yes]
+$createRole[👽OLD👽;#2ecc71;yes;yes]
+$createRole[📺Взломмейкер📺;#7318eb;yes;yes]
+$createRole[👑Легенды Ютуба👑;#f1c40f;yes;yes]
+$createRole[🧱Лего-аниматор🧱;#05eb6a;yes;yes]
+$createRole[🎨Создатель артов🎨;#4c92b9;yes;yes]
+$createRole[🎬Ютубер🎬;#10b1e7;yes;yes]
+$createRole[🎥Тиктокер🎥;#e9490e;yes;yes]
+$createRole[🎞️Стример🎞️;#0adf07;yes;yes]
+$createRole[🎮Геймер🎮;#ffff00;yes;yes]
+$createRole[🤘Участник🤘;#00ffff;yes;yes]
+$createRole[🤎Преданный🤍;#07a1f0;yes;yes]
+$createRole[🤖Боты🤖;#9b59b6;yes;yes]
