@@ -3,7 +3,6 @@ $onlyAdmin[❌ Для використання цієї команди вам п
 ❌ You need admin rights to use this command.
 ❌ Для использования данной команды вам нужны права админа.]
 $color[$randomText[ffff00;ff005b;00ff56;e1ff00;0900ff]]
-$createChannel[🔑Верификация🔑;category]
 $createChannel[👻Добро пожаловать👻;category]
 $createChannel[🖤Администрация🖤;category]
 $createChannel[✉Информация✉;category]
