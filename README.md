@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @YlayaQueen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m NETSHOW
+- 👀 I interested in Games
+- 🌱 I studied at School No. 52 in of the Yashnabad district of Tashkent (2011 - 2021)
+- 💞️ I'm looking to become gamer and streamer
+- 📫 Contact me in Discord: NETSHOW#0378
 - 🎮 I playing games in Warcraft III and NFS Series
-
-<!---
-YlayaQueen/YlayaQueen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
