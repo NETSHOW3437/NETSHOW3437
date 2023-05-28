@@ -1,6 +1,6 @@
-- 👋 Hi, I’m NETSHOW
-- 👀 I interested in Games
-- 🌱 I studied at School No. 52 in of the Yashnabad district of Tashkent (2011 - 2021)
-- 💞️ I'm looking to become gamer and streamer
-- 📫 Contact me in Discord: NETSHOW#0378
-- 🎮 I playing games in Warcraft III, NFS Most Wanted, NFS Carbon and League of Legends
+- Hi, I’m NETSHOW
+- I interested in Games
+- I studied at School No. 52 in of the Yashnabad district of Tashkent (2011 - 2021)
+- I'm looking to become gamer and streamer
+- Contact me in Discord: NETSHOW#0378
+- I playing games in Warcraft III, NFS Most Wanted, NFS Carbon and League of Legends
