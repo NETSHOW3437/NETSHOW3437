@@ -2,6 +2,6 @@
 - I interested in Games
 - I studied at School No. 52 in of the Yashnabad district of Tashkent (2011 - 2021)
 - I'm looking to become gamer and streamer
-- Contact me in Riot Games account: TCGiSO#Lux (For North and Latin Americas residents), SafeDisc (For EMEA residents)
+- Contact me in Riot Games account: TCGiSO#Lux (For North and Latin Americas residents), SafeDisc v4#4346 (For EMEA residents)
 - I playing games in Warcraft III, NFS Most Wanted, NFS Carbon and League of Legends
 - I playing LoL PC only in heroes (Sejuani and Lux)
